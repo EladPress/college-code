@@ -1,0 +1,63 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - TestVehicle",
+            "request": "launch",
+            "mainClass": "TestVehicle",
+            "projectName": "inheritence1_bb337924"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Zoo",
+            "request": "launch",
+            "mainClass": "Practice6.Q1.Zoo",
+            "projectName": "inheritence1_bb337924"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - test1",
+            "request": "launch",
+            "mainClass": "Practice3.test1",
+            "projectName": "inheritence1_bb337924"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch) - Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-Garage<inheritence1_bb337924>",
+            "request": "launch",
+            "mainClass": "Practice1.Garage",
+            "projectName": "inheritence1_bb337924"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-TestHoursMinutesSecondsTime<inheritence1_bb337924>",
+            "request": "launch",
+            "mainClass": "TestHoursMinutesSecondsTime",
+            "projectName": "inheritence1_bb337924"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-TestHoursMinutesTime<inheritence1_bb337924>",
+            "request": "launch",
+            "mainClass": "TestHoursMinutesTime",
+            "projectName": "inheritence1_bb337924"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-TestHoursTime<inheritence1_bb337924>",
+            "request": "launch",
+            "mainClass": "TestHoursTime",
+            "projectName": "inheritence1_bb337924"
+        }
+    ]
+}

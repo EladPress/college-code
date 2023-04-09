@@ -1,0 +1,10 @@
+I:\Programming\ניתוח מערכות\Drinks_Project\Drinks\bin\Debug\Drinks.exe.config
+I:\Programming\ניתוח מערכות\Drinks_Project\Drinks\bin\Debug\Drinks.exe
+I:\Programming\ניתוח מערכות\Drinks_Project\Drinks\bin\Debug\Drinks.pdb
+I:\Programming\ניתוח מערכות\Drinks_Project\Drinks\obj\Debug\Drinks.csprojAssemblyReference.cache
+I:\Programming\ניתוח מערכות\Drinks_Project\Drinks\obj\Debug\Drinks.Properties.Resources.resources
+I:\Programming\ניתוח מערכות\Drinks_Project\Drinks\obj\Debug\Drinks.csproj.GenerateResource.cache
+I:\Programming\ניתוח מערכות\Drinks_Project\Drinks\obj\Debug\Drinks.csproj.CoreCompileInputs.cache
+I:\Programming\ניתוח מערכות\Drinks_Project\Drinks\obj\Debug\Drinks.exe
+I:\Programming\ניתוח מערכות\Drinks_Project\Drinks\obj\Debug\Drinks.pdb
+I:\Programming\ניתוח מערכות\Drinks_Project\Drinks\obj\Debug\Drinks.FrmDrink.resources

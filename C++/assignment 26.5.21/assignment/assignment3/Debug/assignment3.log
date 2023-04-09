@@ -1,0 +1,18 @@
+﻿  Man.cpp
+H:\Programming\C++\assignment 26.5.21\assignment\assignment3\Woman.h(10,12): error C3646: 'spouse': unknown override specifier
+H:\Programming\C++\assignment 26.5.21\assignment\assignment3\Woman.h(10,12): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+H:\Programming\C++\assignment 26.5.21\assignment\assignment3\Woman.h(14,7): error C2061: syntax error: identifier 'Man'
+  Source.cpp
+H:\Programming\C++\assignment 26.5.21\assignment\assignment3\Woman.h(10,12): error C3646: 'spouse': unknown override specifier
+H:\Programming\C++\assignment 26.5.21\assignment\assignment3\Woman.h(10,12): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+H:\Programming\C++\assignment 26.5.21\assignment\assignment3\Woman.h(14,7): error C2061: syntax error: identifier 'Man'
+  Woman.cpp
+H:\Programming\C++\assignment 26.5.21\assignment\assignment3\Woman.cpp(8,1): error C2512: 'Man': no appropriate default constructor available
+H:\Programming\C++\assignment 26.5.21\assignment\assignment3\Man.h(5,7): message : see declaration of 'Man'
+H:\Programming\C++\assignment 26.5.21\assignment\assignment3\Woman.cpp(16,1): error C2512: 'Man': no appropriate default constructor available
+H:\Programming\C++\assignment 26.5.21\assignment\assignment3\Man.h(5,7): message : see declaration of 'Man'
+H:\Programming\C++\assignment 26.5.21\assignment\assignment3\Woman.cpp(24,1): error C2512: 'Man': no appropriate default constructor available
+H:\Programming\C++\assignment 26.5.21\assignment\assignment3\Man.h(5,7): message : see declaration of 'Man'
+H:\Programming\C++\assignment 26.5.21\assignment\assignment3\Woman.cpp(32,1): error C2512: 'Man': no appropriate default constructor available
+H:\Programming\C++\assignment 26.5.21\assignment\assignment3\Man.h(5,7): message : see declaration of 'Man'
+  Generating Code...

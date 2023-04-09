@@ -1,0 +1,26 @@
+<drinks>
+  <drink>
+    <Name>Decaff</Name>
+    <Sugar>2.0</Sugar>
+    <Cocoa>2.0</Cocoa>
+    <Coffee>2.0</Coffee>
+    <Milk>2.0</Milk>
+    <Price>3.0</Price>
+  </drink>
+  <drink>
+    <Name>Petel</Name>
+    <Sugar>3.0</Sugar>
+    <Cocoa>0</Cocoa>
+    <Coffee>0</Coffee>
+    <Milk>0</Milk>
+    <Price>4.5</Price>
+  </drink>
+  <drink>
+    <Name>Covfefe</Name>
+    <Sugar>3.0</Sugar>
+    <Cocoa>3.0</Cocoa>
+    <Coffee>3.0</Coffee>
+    <Milk>3.0</Milk>
+    <Price>50.0</Price>
+  </drink>
+</drinks>

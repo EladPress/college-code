@@ -1,0 +1,9 @@
+I:\Programming\ניתוח מערכות\Restaurant_Project\Restaurant\bin\Debug\Restaurant.exe.config
+I:\Programming\ניתוח מערכות\Restaurant_Project\Restaurant\bin\Debug\Restaurant.exe
+I:\Programming\ניתוח מערכות\Restaurant_Project\Restaurant\bin\Debug\Restaurant.pdb
+I:\Programming\ניתוח מערכות\Restaurant_Project\Restaurant\obj\Debug\Restaurant.Customer.resources
+I:\Programming\ניתוח מערכות\Restaurant_Project\Restaurant\obj\Debug\Restaurant.Properties.Resources.resources
+I:\Programming\ניתוח מערכות\Restaurant_Project\Restaurant\obj\Debug\Menu.csproj.GenerateResource.cache
+I:\Programming\ניתוח מערכות\Restaurant_Project\Restaurant\obj\Debug\Menu.csproj.CoreCompileInputs.cache
+I:\Programming\ניתוח מערכות\Restaurant_Project\Restaurant\obj\Debug\Restaurant.exe
+I:\Programming\ניתוח מערכות\Restaurant_Project\Restaurant\obj\Debug\Restaurant.pdb

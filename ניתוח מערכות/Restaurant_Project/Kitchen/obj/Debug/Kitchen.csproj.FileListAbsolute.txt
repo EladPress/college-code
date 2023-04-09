@@ -1,0 +1,10 @@
+I:\Programming\ניתוח מערכות\Restaurant_Project\Kitchen\obj\Debug\Kitchen.Properties.Resources.resources
+I:\Programming\ניתוח מערכות\Restaurant_Project\Kitchen\obj\Debug\Kitchen.csproj.GenerateResource.cache
+I:\Programming\ניתוח מערכות\Restaurant_Project\Kitchen\obj\Debug\Kitchen.csproj.CoreCompileInputs.cache
+I:\Programming\ניתוח מערכות\Restaurant_Project\Kitchen\obj\Debug\Kitchen.Kitchen.resources
+I:\Programming\ניתוח מערכות\Restaurant_Project\Kitchen\bin\Debug\Kitchen.exe.config
+I:\Programming\ניתוח מערכות\Restaurant_Project\Kitchen\bin\Debug\Kitchen.exe
+I:\Programming\ניתוח מערכות\Restaurant_Project\Kitchen\bin\Debug\Kitchen.pdb
+I:\Programming\ניתוח מערכות\Restaurant_Project\Kitchen\obj\Debug\Kitchen.exe
+I:\Programming\ניתוח מערכות\Restaurant_Project\Kitchen\obj\Debug\Kitchen.pdb
+I:\Programming\ניתוח מערכות\Restaurant_Project\Kitchen\obj\Debug\Kitchen.csprojAssemblyReference.cache

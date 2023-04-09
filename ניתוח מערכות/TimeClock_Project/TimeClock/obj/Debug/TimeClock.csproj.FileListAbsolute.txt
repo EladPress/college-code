@@ -1,0 +1,10 @@
+I:\Programming\ניתוח מערכות\TimeClock_Project\TimeClock\bin\Debug\TimeClock.exe.config
+I:\Programming\ניתוח מערכות\TimeClock_Project\TimeClock\bin\Debug\TimeClock.exe
+I:\Programming\ניתוח מערכות\TimeClock_Project\TimeClock\bin\Debug\TimeClock.pdb
+I:\Programming\ניתוח מערכות\TimeClock_Project\TimeClock\obj\Debug\TimeClock.csprojAssemblyReference.cache
+I:\Programming\ניתוח מערכות\TimeClock_Project\TimeClock\obj\Debug\TimeClock.Form1.resources
+I:\Programming\ניתוח מערכות\TimeClock_Project\TimeClock\obj\Debug\TimeClock.Properties.Resources.resources
+I:\Programming\ניתוח מערכות\TimeClock_Project\TimeClock\obj\Debug\TimeClock.csproj.GenerateResource.cache
+I:\Programming\ניתוח מערכות\TimeClock_Project\TimeClock\obj\Debug\TimeClock.csproj.CoreCompileInputs.cache
+I:\Programming\ניתוח מערכות\TimeClock_Project\TimeClock\obj\Debug\TimeClock.exe
+I:\Programming\ניתוח מערכות\TimeClock_Project\TimeClock\obj\Debug\TimeClock.pdb

@@ -1,0 +1,13 @@
+I:\Programming\C#\C# Hades\Test\HadesTest\bin\Debug\netcoreapp3.1\HadesTest.exe
+I:\Programming\C#\C# Hades\Test\HadesTest\bin\Debug\netcoreapp3.1\HadesTest.deps.json
+I:\Programming\C#\C# Hades\Test\HadesTest\bin\Debug\netcoreapp3.1\HadesTest.runtimeconfig.json
+I:\Programming\C#\C# Hades\Test\HadesTest\bin\Debug\netcoreapp3.1\HadesTest.runtimeconfig.dev.json
+I:\Programming\C#\C# Hades\Test\HadesTest\bin\Debug\netcoreapp3.1\HadesTest.dll
+I:\Programming\C#\C# Hades\Test\HadesTest\bin\Debug\netcoreapp3.1\HadesTest.pdb
+I:\Programming\C#\C# Hades\Test\HadesTest\obj\Debug\netcoreapp3.1\HadesTest.csprojAssemblyReference.cache
+I:\Programming\C#\C# Hades\Test\HadesTest\obj\Debug\netcoreapp3.1\HadesTest.AssemblyInfoInputs.cache
+I:\Programming\C#\C# Hades\Test\HadesTest\obj\Debug\netcoreapp3.1\HadesTest.AssemblyInfo.cs
+I:\Programming\C#\C# Hades\Test\HadesTest\obj\Debug\netcoreapp3.1\HadesTest.csproj.CoreCompileInputs.cache
+I:\Programming\C#\C# Hades\Test\HadesTest\obj\Debug\netcoreapp3.1\HadesTest.dll
+I:\Programming\C#\C# Hades\Test\HadesTest\obj\Debug\netcoreapp3.1\HadesTest.pdb
+I:\Programming\C#\C# Hades\Test\HadesTest\obj\Debug\netcoreapp3.1\HadesTest.genruntimeconfig.cache

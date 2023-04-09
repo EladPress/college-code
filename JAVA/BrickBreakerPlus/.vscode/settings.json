@@ -1,0 +1,6 @@
+{
+  "files.exclude": {
+    "../SpaceInvadersV0/Shot.class": true,
+    "../SpaceInvadersV0/Player.class": true
+  }
+}

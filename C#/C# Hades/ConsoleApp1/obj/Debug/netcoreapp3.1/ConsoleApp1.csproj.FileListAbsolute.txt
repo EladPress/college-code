@@ -1,0 +1,13 @@
+I:\Programming\C#\C# Hades\ConsoleApp1\bin\Debug\netcoreapp3.1\ConsoleApp1.exe
+I:\Programming\C#\C# Hades\ConsoleApp1\bin\Debug\netcoreapp3.1\ConsoleApp1.deps.json
+I:\Programming\C#\C# Hades\ConsoleApp1\bin\Debug\netcoreapp3.1\ConsoleApp1.runtimeconfig.json
+I:\Programming\C#\C# Hades\ConsoleApp1\bin\Debug\netcoreapp3.1\ConsoleApp1.runtimeconfig.dev.json
+I:\Programming\C#\C# Hades\ConsoleApp1\bin\Debug\netcoreapp3.1\ConsoleApp1.dll
+I:\Programming\C#\C# Hades\ConsoleApp1\bin\Debug\netcoreapp3.1\ConsoleApp1.pdb
+I:\Programming\C#\C# Hades\ConsoleApp1\obj\Debug\netcoreapp3.1\ConsoleApp1.csprojAssemblyReference.cache
+I:\Programming\C#\C# Hades\ConsoleApp1\obj\Debug\netcoreapp3.1\ConsoleApp1.AssemblyInfoInputs.cache
+I:\Programming\C#\C# Hades\ConsoleApp1\obj\Debug\netcoreapp3.1\ConsoleApp1.AssemblyInfo.cs
+I:\Programming\C#\C# Hades\ConsoleApp1\obj\Debug\netcoreapp3.1\ConsoleApp1.csproj.CoreCompileInputs.cache
+I:\Programming\C#\C# Hades\ConsoleApp1\obj\Debug\netcoreapp3.1\ConsoleApp1.dll
+I:\Programming\C#\C# Hades\ConsoleApp1\obj\Debug\netcoreapp3.1\ConsoleApp1.pdb
+I:\Programming\C#\C# Hades\ConsoleApp1\obj\Debug\netcoreapp3.1\ConsoleApp1.genruntimeconfig.cache
